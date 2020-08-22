@@ -14,3 +14,8 @@ Upon opening JackPilot, you'll be navigated to a settings window (you can get he
 <p align="center">
   <img width="396" height="566" src="https://github.com/lucylangenb/jacktrip/blob/master/jackpilot_preferences.png?raw=true">
 </p>
+
+You'll want to pay attention to a few features:
+- __Input/Output Device:__ Especially if you have an external mic that you're using (recommended, but not required), make sure these are correct.
+- __Sample Rate:__ This is how often your computer captures the sound you're making and converts it to binary code to be stored or transmitted (measured in samples per second, or Hz). For our purposes, 44100 Hz (44.1 kHz) is fine.
+- __Buffer Size:__ This is how long it takes for your computer to process audio. Smaller buffer sizes can result in a loss of quality, but larger buffer sizes can reintroduce latency. Musicians seem to like 128 samples (not large enough to experience delays, but not too small that you start hearing glitches in transmitted audio).
