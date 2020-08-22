@@ -7,3 +7,6 @@ Jack and Jacktrip are two audio routing programs that work together to send audi
 - Internet speeds of at least 5 Mbps upload/download
    - Jacktrip is best run on a university's internet connection, but with home internet connections improving, running this software at home should also (hopefully!) work.
 
+Check out the following links for more info:
+- Michael Dessen is a pioneer in composing and playing telematic music, in which performers appear together virtually and are often hundreds of miles apart. He has a great [guide](https://mdessen.com/portfolio/networked-music-performance-resources/) on how he makes this work.
+- John Williamson and Sam Leak put together a (two-hour) [Zoom tutorial](https://www.youtube.com/watch?v=-dWTZTv7bUY&feature=emb_rel_pause) that basically goes over the same things as this repository will.
