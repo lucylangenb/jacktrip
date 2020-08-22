@@ -11,4 +11,6 @@ You will need to restart your computer after installation. After you have done s
 
 Upon opening JackPilot, you'll be navigated to a settings window (you can get here again by selecting __JackPilot --> Preferences__ in OS X):
 
-![jackPilotPreferences](jackpilot_preferences.png)
+<p align="center">
+  <img width="396" height="566" src="https://github.com/lucylangenb/jacktrip/blob/master/jackpilot_preferences.png?raw=true">
+</p>
