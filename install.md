@@ -1,3 +1,13 @@
-This file will cover the basics of Jack and Jacktrip installation.
+# Installing Jack and Jacktrip
 
-To download the most recent version of Jack for Windows or OS X: https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/
+## Installing Jack
+
+Jack is essentially an audio patching software. Think about how a synth box works: you connect input and output sources via wires ("jacks") to create new sounds. Jack works the same way, but within your computer: it can route audio from one program to another.
+
+To download the most recent version of Jack for Windows or OS X: https://jackaudio.org/downloads/
+
+(As of 8/21/20, the Windows and OS X software links are no longer available on this site. Check this WebArchive version of the same page for the files instead: https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/)
+
+You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use JackPilot.
+
+Upon opening JackPilot
