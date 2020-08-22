@@ -6,6 +6,8 @@ Jack is essentially an audio patching software. Think about how a synth box work
 
 To download the most recent version of Jack for Windows or OS X, [visit the Jack website.](https://jackaudio.org/downloads/)
 (As of 8/21/20, the Windows and OS X software links are no longer available on this site. Check out [this Wayback link](https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/) for an older version of this page with download links.)
+- For Windows 7 and newer, download the 64 bit installer. For older computers, you'll want the 32 bit installer.
+- For OS X, download the Jack2 Binaries file.
 
 You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use JackPilot.
 
