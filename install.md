@@ -9,7 +9,7 @@ To download the most recent version of Jack for Windows or OS X, [visit the Jack
 
 You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use JackPilot.
 
-Upon opening JackPilot, you'll be navigated to a settings window (you can get here again by selecting __JackPilot --> Preferences__ in OS X):
+Upon opening JackPilot, you'll be navigated to a settings window (you can get here again by selecting __JackPilot → Preferences__ in OS X):
 
 <p align="center">
   <img width="396" height="566" src="https://github.com/lucylangenb/jacktrip/blob/master/jackpilot_preferences.png?raw=true">
