@@ -33,7 +33,7 @@ Other useful commands to know:
 Open Terminal again (⌘T for a new tab, ⌘N for a new window) to make sure your changes went through. Type `jacktrip` and hit enter (doesn't matter which directory you're in) to run the program. You'll then see a lot of text describing how to make JackTrip work:
 
 <p align="center">
-  <img width="805" height="638" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/osx_jacktripcommands.png?raw=true">
+  <img width="644" height="510" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/osx_jacktripcommands.png?raw=true">
 </p>
 
 Because JackTrip is command-line, we'll need to pass arguments to the program (typing in commands) to tell the program what we want it to do. 
