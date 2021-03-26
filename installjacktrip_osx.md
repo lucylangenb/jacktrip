@@ -14,4 +14,9 @@ It's worth getting familiar with this window:
 - __MacBook-Air-19__ is the name of the device I'm using.
 - __LucyR$__ is the directory I'm currently in (which we know because of the tilde, ~, in front of it). Think of it as where I am currently positioned within my computer's library.
 
+Enter the following lines of code, which are explained below:
+```
+cd Downloads/jacktrip
+```
+- `cd Downloads/jacktrip`: the "cd" stands for current domain. This command relocates you to the JackTrip folder.
 
