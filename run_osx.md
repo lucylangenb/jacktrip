@@ -10,6 +10,6 @@ jacktrip -c ipAddress
 That's it! You should be connected to the server. Don't worry about the "UDP waiting too long" message. If you're having trouble sending and receiving audio, this is a message worth looking into, but in most cases it is meaningless.
 
 If you're having problems:
-- Check to make sure that the buffer size in Jack is the same between all users. Stick to 128 for simplicity; if you want to explore other sizes (64, 256), you'll have to close Jack and JackTrip, adjust this preference, and run the programs again.
+- Check to make sure that the buffer size in Jack is the same between all users. Stick to 128 for simplicity; if you want to explore other sizes (64, 256), you'll have to close Jack and JackTrip (use ⌘C in Terminal to stop JackTrip), adjust this preference, and run the programs again.
 
 
