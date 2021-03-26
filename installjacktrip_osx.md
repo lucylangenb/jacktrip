@@ -16,12 +16,17 @@ It's worth getting familiar with this window:
 
 Enter the following lines of code one at a time. Their functions are explained below.
 ```
-cd Downloads/jacktrip
+cd Downloads/jacktrip/bin
+sudo cp jacktrip /usr/local/bin/
+sudo chmod 755 /usr/local/bin/jacktrip
 ```
-- `cd Downloads/jacktrip`: the "cd" stands for change directory. This command relocates you to the JackTrip folder. Make sure you're formatting your directory commands to exactly match the syntax of the folders within your computer (capitalize Downloads, etc).
-- 
+- The "cd" in the first command stands for change directory. This command relocates you to the binary folder within the JackTrip folder. Make sure you're formatting your directory commands to exactly match the syntax of the folders within your computer (capitalize Downloads, etc).
+- "sudo" in the second line means "as an administrator." In normal English, then, the second command means "with administrator privileges, copy jacktrip into the folder I want." You're making a copy of the executable file in a place that your computer expects to find it so that this runs properly. __You'll have to enter your password__, but this is fine; you need to give administrator privileges briefly to allow Terminal to make a copy of this file.
+- The third line of code modifies permissions on the jacktrip file so you'll be able to run it properly.
 
 Other useful commands to know:
 - `ls` lists the contents of the current directory.
 - `cd` without any additional arguments will redirect you to the home directory.
 - `pwd` shows you the "present working directory" (the full path of the directory you're in).
+
+
