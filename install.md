@@ -1,6 +1,6 @@
-# Installing Jack and Jacktrip
+# Installing Jack
 
-## Installing Jack
+## OS X and Windows
 
 Jack is essentially an audio patching software. Think about how a synth box works: you connect input and output sources via wires ("jacks") to create new sounds. Jack works the same way, but within your computer: it can route audio from one program to another.
 
@@ -32,3 +32,4 @@ In the small main JackPilot window, try hitting the start button. This will star
 
 The Connections Manager window is essentially your computer's synth box. Here, you can see all available input (capture) and output (playback) channels and virtually connect (patch) them. We'll come back to this window to do some patching later - for example, we'll add Jacktrip (which can send audio elsewhere) as an input channel to route our audio to another musician's computer.
 
+Next, we'll need to install Jacktrip. Installation is a little trickier on Windows, so I've made separate guides for OS X and Windows, which you can get to from the main page.
