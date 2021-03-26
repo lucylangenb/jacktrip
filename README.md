@@ -10,3 +10,5 @@ Jack and Jacktrip are two audio routing programs that work together to send audi
 Check out the following links for more info:
 - Michael Dessen is a pioneer in composing and playing telematic music, in which performers appear together virtually and are often hundreds of miles apart. He has a great [guide](https://mdessen.com/portfolio/networked-music-performance-resources/) on how he makes this work.
 - John Williamson and Sam Leak put together a (two-hour) [Zoom tutorial](https://www.youtube.com/watch?v=-dWTZTv7bUY&feature=emb_rel_pause) that basically goes over the same things as this repository will.
+
+To get started, navigate to the "Install Jack" page above, or click [here.](https://github.com/lucylangenb/jacktrip/blob/master/installjack.md#installing-jack)
