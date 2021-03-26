@@ -12,6 +12,6 @@ Open up Terminal (which you can reach from Launchpad by opening __Other → Term
 It's worth getting familiar with this window:
 - __bash__ is what's known as a command-line interpreter. Basically, instead of the graphical user interface (GUI) that non-programmers are used to, this is a program that manages a text-based interface. 
 - __MacBook-Air-19__ is the name of the device I'm using.
-- __~ LucyR$__ is the directory I'm currently in. Think of it as where I am currently positioned within my computer's library.
+- __LucyR$__ is the directory I'm currently in (which we know because of the tilde, ~, in front of it). Think of it as where I am currently positioned within my computer's library.
 
 
