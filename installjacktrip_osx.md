@@ -14,9 +14,14 @@ It's worth getting familiar with this window:
 - __MacBook-Air-19__ is the name of the device I'm using.
 - __LucyR$__ is the directory I'm currently in (which we know because of the tilde, ~, in front of it). Think of it as where I am currently positioned within my computer's library.
 
-Enter the following lines of code, which are explained below:
+Enter the following lines of code one at a time. Their functions are explained below.
 ```
 cd Downloads/jacktrip
 ```
-- `cd Downloads/jacktrip`: the "cd" stands for current domain. This command relocates you to the JackTrip folder.
+- `cd Downloads/jacktrip`: the "cd" stands for change directory. This command relocates you to the JackTrip folder. Make sure you're formatting your directory commands to exactly match the syntax of the folders within your computer (capitalize Downloads, etc).
+- 
 
+Other useful commands to know:
+- `ls` lists the contents of the current directory.
+- `cd` without any additional arguments will redirect you to the home directory.
+- `pwd` shows you the "present working directory" (the full path of the directory you're in).
