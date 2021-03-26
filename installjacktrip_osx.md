@@ -29,4 +29,4 @@ Other useful commands to know:
 - `cd` without any additional arguments will redirect you to the home directory.
 - `pwd` shows you the "present working directory" (the full path of the directory you're in).
 
-
+Open Terminal again (⌘T for a new tab, ⌘N for a new window) to make sure your changes went through.
