@@ -37,3 +37,5 @@ Open Terminal again (⌘T for a new tab, ⌘N for a new window) to make sure you
 </p>
 
 Because JackTrip is command-line, we'll need to pass arguments to the program (typing in commands) to tell the program what we want it to do. 
+
+Before we continue and connect to a server as a client, make sure Jack is running in the background (click "Start" to ensure this).
