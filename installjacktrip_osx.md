@@ -36,6 +36,4 @@ Open Terminal again (⌘T for a new tab, ⌘N for a new window) to make sure you
   <img width="644" height="510" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/osx_jacktripcommands.png?raw=true">
 </p>
 
-Because JackTrip is command-line, we'll need to pass arguments to the program (typing in commands) to tell the program what we want it to do. 
-
-Before we continue and connect to a server as a client, make sure Jack is running in the background (click "Start" to ensure this).
+Because JackTrip is command-line, we'll need to pass arguments to the program (typing in commands) to tell the program what we want it to do. If we're ready to join a server, continue on to the [Running JackTrip guide.](https://github.com/lucylangenb/jacktrip/blob/master/run_osx.md#running-jack-and-jacktrip)
