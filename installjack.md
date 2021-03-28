@@ -4,8 +4,8 @@
 
 Jack is essentially an audio patching software. Think about how a synth box works: you connect input and output sources via wires ("jacks") to create new sounds. Jack works the same way, but within your computer: it can route audio from one program to another.
 
-To download the most recent version of Jack for Windows or OS X, [visit the Jack website.](https://jackaudio.org/downloads/)
-(As of 8/21/20, the Windows and OS X software links are no longer available on this site. Check out [this Wayback link](https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/) for an older version of this page with download links.)
+To download the most recent version of Jack for Windows, [visit the Jack website.](https://jackaudio.org/downloads/)
+(As of 3/28/21, the OS X Binaries links, necessary for installation unless you want to learn how to install source code, are no longer available on this site. Check out [this Wayback link](https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/) for an older version of this page with download links.)
 - For Windows 7 and newer, download the 64 bit installer. For older computers, you'll want the 32 bit installer.
 - For OS X, download the Jack2 Binaries file.
 
