@@ -17,5 +17,11 @@ If you're having problems:
 
 ## Patching in Jack
 
+In JackPilot, hit the "Routing" button to open the Connections Manager. Because you have JackTrip running, you'll see JackTrip as input ("Send Ports") and output ("Receive Ports") options. Try selecting one of your system input options; if you are connected to a server correctly, the corresponding JackTrip output will appear in red.
 
+(image)
+
+Because I have "capture_1" selected, for example, JackTrip's "send_1" appears in red. 
+
+To create additional connections (virtually plugging cables into input and output channels on your imaginary synth box), select the input you want, then double-click the output you want to connect it to. You can undo connections the same way (if a connection is already present, select the input, then double-click the corresponding output). As far as I can tell, it doesn't matter too much which "capture" inputs are routed to JackTrip's "send" output(s), for our purposes, but you do want to make sure you route both "playback" outputs to JackTrip's "receive" input(s). On most computers, "playback_1" corresponds to your left headphone/earbud, while "playback_2" corresponds to your right headphone/earbud. 
 
