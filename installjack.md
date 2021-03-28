@@ -9,7 +9,7 @@ To download the most recent version of Jack for Windows, [visit the Jack website
 - For Windows 7 and newer, download the 64 bit installer. For older computers, you'll want the 32 bit installer.
 - For OS X, download the Jack2 Binaries file.
 
-You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use JackPilot.
+You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use JackPilot. Note that, especially if you're using an older version of the download files, you might get an error message that the software isn't up-to-date; ignore this.
 
 Upon opening JackPilot, you'll be navigated to a settings window (you can get here again by selecting __JackPilot → Preferences__ in OS X):
 
