@@ -5,13 +5,12 @@ Jack routes audio between programs within your computer, but we need JackTrip to
 
 You'll notice that the zip file contains INSTALL.txt - this is basically a more techincal version of this guide. Feel free to use it if you prefer.
 
-Open up Terminal (which you can reach from Launchpad by opening __Other → Terminal__). We'll be running code just like any other program on your computer does, but without the easy-to-use graphic interface that we're used to computer programs having - i.e. we'll have to type (or copy and paste) code instead of clicking buttons.
+Open up Terminal (which you can reach from Launchpad by opening __Other → Terminal__). We'll be running code just like any other program on your computer does, but without the easy-to-use graphic interface that we're used to computer programs having - i.e. we'll have to type (or copy and paste) code instead of clicking buttons. It's worth getting familiar with Terminal:
 
 <p align="center">
   <img width="324" height="106" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/osx_terminal.png?raw=true">
 </p>
 
-It's worth getting familiar with this window:
 - __bash__ is what's known as a command-line interpreter. Basically, instead of the graphical user interface (GUI) that non-programmers are used to, this is a program that manages a text-based interface. 
 - __MacBook-Air-19__ is the name of the device I'm using.
 - __LucyR$__ is the directory I'm currently in. Think of it as where I am currently positioned within my computer's library.
@@ -31,4 +30,10 @@ Other useful commands to know:
 - `cd` without any additional arguments will redirect you to the home directory.
 - `pwd` shows you the "present working directory" (the full path of the directory you're in).
 
-Open Terminal again (⌘T for a new tab, ⌘N for a new window) to make sure your changes went through.
+Open Terminal again (⌘T for a new tab, ⌘N for a new window) to make sure your changes went through. Type `jacktrip` and hit enter (doesn't matter which directory you're in) to run the program. You'll then see a lot of text describing how to make JackTrip work:
+
+<p align="center">
+  <img width="644" height="510" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/osx_jacktripcommands.png?raw=true">
+</p>
+
+Because JackTrip is command-line, we'll need to pass arguments to the program (typing in commands) to tell the program what we want it to do. If we're ready to join a server, continue on to the [Running JackTrip guide.](https://github.com/lucylangenb/jacktrip/blob/master/run_osx.md#running-jack-and-jacktrip)
