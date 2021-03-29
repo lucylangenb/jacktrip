@@ -4,12 +4,11 @@
 
 Jack is essentially an audio patching software. Think about how a synth box works: you connect input and output sources via wires ("jacks") to create new sounds. Jack works the same way, but within your computer: it can route audio from one program to another.
 
-To download the most recent version of Jack for Windows, [visit the Jack website.](https://jackaudio.org/downloads/)
-(As of 3/28/21, the OS X Binaries links, necessary for installation unless you want to learn how to install source code, are no longer available on this site. Check out [this Wayback link](https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/) for an older version of this page with download links.)
+To download the most recent version of Jack, [visit the Jack website.](https://jackaudio.org/downloads/)
 - For Windows 7 and newer, download the 64 bit installer. For older computers, you'll want the 32 bit installer.
-- For OS X, download the Jack2 Binaries file.
+- For OS X Catalina and newer, download the Intel 64 bit installer. For older computers, you'll want the Jack2 Binaries file, which is accessbile through [this Wayback link.](https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/)
 
-You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use JackPilot. Note that, especially if you're using an older version of the download files, you might get an error message that the software isn't up-to-date; ignore this.
+You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use JackPilot (though, this may not work for newer Macs; if JackPilot isn't working for you, click here). Note that, especially if you're using an older version of the download files, you might get an error message that the software isn't up-to-date; ignore this.
 
 Upon opening JackPilot, you'll be navigated to a settings window (you can get here again by selecting __JackPilot → Preferences__ in OS X):
 
