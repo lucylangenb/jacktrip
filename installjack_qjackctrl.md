@@ -20,7 +20,7 @@ Upon opening Q Jack Control, you'll see one of the two windows shown below, depe
 Click "Setup." Depending on your version, the setup window can be somewhat overwhelming, but we only need to adjust a few settings.
 
 <p align="center">
-  <img width="670" height="273" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/qjackctl_setup.png?raw=true">
+  <img width="1004.25" height="409.5" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/qjackctl_setup.png?raw=true">
 </p>
 
 - __Sample Rate:__ This is how often your computer captures the sound you're making and converts it to binary code to be stored or transmitted (measured in samples per second, or Hz). For our purposes, 44100 Hz (44.1 kHz) is fine.
