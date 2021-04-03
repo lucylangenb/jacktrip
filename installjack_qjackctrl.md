@@ -5,7 +5,7 @@ Jack is essentially an audio patching software. Think about how a synth box work
 
 Install Jack by visiting their website [here](https://jackaudio.org/downloads/).
 - For Windows 7 and newer, install the 64 bit installer; for older operating systems, use the 32 bit installer.
-  - Windows devices often require the installation of an ASIO driver, which directly connects software like Jack to your computer's sound card. To determine whether your computer needs one of these and how to install ASIO4all, visit the Stanford installation page [here.](https://ccrma.stanford.edu/software/jacktrip/windows/index.html)
+  - Windows devices often require the installation of an ASIO driver, which directly connects software like Jack to your computer's sound card. To determine whether your computer needs one of these and how to install ASIO4all, visit the Stanford installation page [here.](https://ccrma.stanford.edu/software/jacktrip/windows/index.html) If you're still having trouble, you can try my brief guide [here.](https://github.com/lucylangenb/jacktrip/blob/master/asio.md)
 - For Macs (10.12 and newer), use the Intel 64 bit installer. For older Macs, you'll need the Jack2 Binaries file, which is accessible through [an older version of the downloads page.](https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/)
 
 You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use Q Jack Control. Note that, especially if you're using an older version of the download files, you might get an error message that the software isn't up-to-date; ignore this.
