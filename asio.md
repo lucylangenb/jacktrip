@@ -6,4 +6,4 @@ If you use a Windows device, congratulations! You probably need to install one o
 
 Double-click the .exe file and follow installation instructions. When prompted with the __Choose Components__ section of the installer, make sure to allow offline settings. This will allow you to continue to adjust ASIO settings even while JackTrip isn't open.
 
-You'll also want to make sure to adjust the buffer size. Remember "Frames/Period" from Jack settings? This is the same deal. Make sure these numbers match (128 samples).
+You'll also want to make sure to adjust the buffer size. Identical to "Frames/Period" in Jack settings, this is how long it takes your computer to process audio. Make sure the value here matches whatever you have or plan to have in Jack (128 samples).
