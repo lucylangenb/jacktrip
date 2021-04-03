@@ -19,7 +19,9 @@ If you're having problems:
 
 In JackPilot, hit the "Routing" button to open the Connections Manager. Because you have JackTrip running, you'll see JackTrip as input ("Send Ports") and output ("Receive Ports") options. Try selecting one of your system input options; if you are connected to a server correctly, the corresponding JackTrip output will appear in red.
 
-(image)
+<p align="center">
+  <img width="587" height="435" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/jackpilot_connectionswhilerunning.png?raw=true">
+</p>
 
 Because I have "capture_1" selected, for example, JackTrip's "send_1" appears in red. 
 
