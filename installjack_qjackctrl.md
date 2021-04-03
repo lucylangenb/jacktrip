@@ -28,7 +28,9 @@ Click "Setup." Depending on your version, the setup window can be somewhat overw
 
 After saving your changes in this setup window, try hitting the "Start" button in the small main window. Once things are up and running, feel free to open "Patchbay," although there's not much we can do with it yet. If you get a pop-up window ("Create patchbay definition as a snapshot of all actual client connections?"), hit "No" to make sure we'll be able to make the necessary connections later.
 
-(qjackctl_patchbay)
+<p align="center">
+  <img width="670" height="350" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/qjackctl_initialpatchbay.png?raw=true">
+</p>
 
 This window is essentially your computer's synth box. Here, you can see all available input (capture) and output (playback) channels and virtually connect (patch) them. We'll come back to this window to do some patching later - for example, we'll add Jacktrip (which can send audio elsewhere) as an input channel to route our audio to another musician's computer.
 
