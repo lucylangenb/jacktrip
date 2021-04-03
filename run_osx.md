@@ -14,6 +14,7 @@ Don't worry about the "UDP waiting too long" message. If you're having trouble s
 If you're having problems:
 - Check to make sure that the buffer size in Jack is the same between all users. Stick to 128 for simplicity; if you want to explore other sizes (64, 256), you'll have to close Jack and JackTrip (use control-C in Terminal to stop JackTrip), adjust this preference, and run the programs again.
 - Check to make sure your q and n arguments (if applicable) match the server's.
+- Try running JackPilot instead of Q Jack Control, or vice versa. My computer does better running JackPilot (Mac OS X 10.14).
 
 ## Patching in Jack
 
