@@ -1,4 +1,4 @@
-# Installing Jack
+# Using JackPilot
 
 ## OS X and Windows
 
