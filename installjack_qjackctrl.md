@@ -34,4 +34,4 @@ After saving your changes in this setup window, try hitting the "Start" button i
 
 This window is essentially your computer's synth box. Here, you can see boxes where input and output channels will be shown so that we can virtually connect (patch) them. We'll come back to this window to do some patching later - for example, we'll add Jacktrip (which can send audio elsewhere) as an input channel to route our audio to another musician's computer.
 
-Next, we need to install JackTrip. Installation is a little trickier on Windows, so I've made separate guides for [OS X](https://github.com/lucylangenb/jacktrip/blob/master/installjacktrip_osx.md#installing-jacktrip) and Windows, both of which can also be accessed from the main page.
+Next, we need to install JackTrip. Installation is a little trickier on Windows, so I've made separate guides for [OS X](https://github.com/lucylangenb/jacktrip/blob/master/installjacktrip_osx.md#installing-jacktrip) and [Windows](https://github.com/lucylangenb/jacktrip/blob/master/installjacktrip_windows.md), both of which can also be accessed from the main page.
