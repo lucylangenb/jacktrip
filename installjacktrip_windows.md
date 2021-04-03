@@ -28,6 +28,8 @@ Enter the following lines of code one at a time. Their functions are explained b
 cd Downloads/jacktrip/bin
 sudo cp jacktrip /usr/local/bin/
 sudo chmod 755 /usr/local/bin/jacktrip
+
+
 ```
 - The "cd" in the first command stands for change directory. This command relocates you to the binary folder within the JackTrip folder. Make sure you're formatting your directory commands to exactly match the syntax of the folders within your computer (capitalize Downloads, etc).
 - "sudo" in the second line means "as an administrator." In normal English, then, the second command means "with administrator privileges, copy jacktrip into the folder I want." You're making a copy of the executable file in a place that your computer expects to find it so that this runs properly. __You'll have to enter your password__, but this is fine; you need to give administrator privileges briefly to allow Terminal to make a copy of this file.
