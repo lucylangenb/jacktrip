@@ -5,12 +5,12 @@ Jack is essentially an audio patching software. Think about how a synth box work
 
 Install Jack by visiting their website [here](https://jackaudio.org/downloads/).
 - For Windows 7 and newer, install the 64 bit installer; for older operating systems, use the 32 bit installer.
-  - Windows devices often require the installation of an ASIO driver, which directly connects software like Jack to your computer's sound card. To determine whether your computer needs one of these and how to install ASIO4all, visit the Stanford installation page [here.](https://ccrma.stanford.edu/software/jacktrip/windows/index.html) If you're still having trouble, you can try my brief guide [here.](https://github.com/lucylangenb/jacktrip/blob/master/asio.md)
+  - Windows devices often require the installation of an ASIO driver, which directly connects software like Jack to your computer's sound card. To determine whether your computer needs one of these and how to install ASIO4all, visit the Stanford installation page [here.](https://ccrma.stanford.edu/software/jacktrip/windows/index.html) If you're still having trouble, you can try my brief guide [here.](https://github.com/lucylangenb/jacktrip/blob/master/1b_asio.md#asio-driver-installation)
 - For Macs (10.12 and newer), use the Intel 64 bit installer. For older Macs, you'll need the Jack2 Binaries file, which is accessible through [an older version of the downloads page.](https://web.archive.org/web/20200808125552/https://jackaudio.org/downloads/)
 
 You will need to restart your computer after installation. After you have done so, you will notice that Jack exists as a folder on your computer. JackPilot and qjackctl (Q Jack Control) both function as graphic interfaces for Jack; here, we'll use Q Jack Control. Note that, especially if you're using an older version of the download files, you might get an error message that the software isn't up-to-date; ignore this.
 
-If, at any time, Q Jack Control isn't working for you, try following the [directions for using JackPilot instead.](https://github.com/lucylangenb/jacktrip/blob/master/installjack.md)
+If, at any time, Q Jack Control isn't working for you, try following the [directions for using JackPilot instead.](https://github.com/lucylangenb/jacktrip/blob/master/1c_installjack_jackpilot.md)
 
 Upon opening Q Jack Control, you'll see one of the two windows shown below, depending on the version you downloaded. The buttons we care about are "Start" (though don't hit this yet), "Stop," "Patchbay," and "Setup." Ignore the other icons.
 
@@ -35,4 +35,4 @@ After saving your changes in this setup window, try hitting the "Start" button i
 
 This window is essentially your computer's synth box. Here, you can see boxes where input and output channels will be shown so that we can virtually connect (patch) them. We'll come back to this window to do some patching later - for example, we'll add Jacktrip (which can send audio elsewhere) as an input channel to route our audio to another musician's computer.
 
-Next, we need to install JackTrip. Installation is a little trickier on Windows, so I've made separate guides for [OS X](https://github.com/lucylangenb/jacktrip/blob/master/installjacktrip_osx.md#installing-jacktrip) and [Windows](https://github.com/lucylangenb/jacktrip/blob/master/installjacktrip_windows.md), both of which can also be accessed from the main page.
+Next, we need to install JackTrip. Installation is a little trickier on Windows, so I've made separate guides for [OS X](https://github.com/lucylangenb/jacktrip/blob/master/2a_installjacktrip_osx.md#installing-jacktrip) and [Windows](https://github.com/lucylangenb/jacktrip/blob/master/2b_installjacktrip_windows.md#installing-jacktrip), both of which can also be accessed from the main page.
