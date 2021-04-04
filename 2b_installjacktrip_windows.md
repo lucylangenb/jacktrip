@@ -18,4 +18,4 @@ Type `jacktrip` and hit enter to generate a list of the arguments we can pass to
   <img width="644" height="510" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/osx_jacktripcommands.png?raw=true">
 </p>
 
-Because JackTrip is command-line, we'll need to pass arguments to the program to tell the program what we want it to do. If we're ready to join a server, continue on to the [Running JackTrip guide.](https://github.com/lucylangenb/jacktrip/blob/master/run_osx.md#running-jack-and-jacktrip)
+Because JackTrip is command-line, we'll need to pass arguments to the program to tell the program what we want it to do. If we're ready to join a server, continue on to the [Running JackTrip guide.](https://github.com/lucylangenb/jacktrip/blob/master/3_run.md#running-jack-and-jacktrip)
