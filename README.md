@@ -4,7 +4,7 @@ Currently, conducting in-person rehearsals is difficult (especially for wind mus
 
 Jack and JackTrip are two audio routing programs that work together to send audio more directly between computers, no matter the physical distance between them. However, online guides recommend the following:
 - An ethernet cable
-   - This isn't about upload/download speed so much as constant, uninterrupted connection. Even the fastest wireless internet sends and receives data in packets, while ethernet maintains a constant connection. We need this undisrupted connection in order to properly play music virtually.
+   - This isn't about upload/download speed so much as constant, uninterrupted connection. Even the fastest wireless internet sends and receives data in packets, while ethernet maintains a constant connection. I haven't been using an ethernet cable and I haven't had issues (yet), but if you have one available to you, use it.
 - Internet speeds of at least 5 Mbps upload/download
    - JackTrip is best run on a university's internet connection, but with home internet connections improving, running this software at home should also (hopefully!) work.
 
