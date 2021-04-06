@@ -27,7 +27,9 @@ Click "Setup." Depending on your version, the setup window can be somewhat overw
 - __Sample Rate:__ This is how often your computer captures the sound you're making and converts it to binary code to be stored or transmitted (measured in samples per second, or Hz). For our purposes, 44100 Hz (44.1 kHz) is fine.
 - __Frames/Period:__ This is how long it takes for your computer to process audio. A smaller value here can result in a loss of quality, but larger values can reintroduce latency. Musicians seem to like 128 samples here (not large enough to experience delays, but not too small that you start hearing glitches in transmitted audio).
 
-After saving your changes in this setup window, try hitting the "Start" button in the small main window. Once things are up and running, feel free to open "Patchbay," although there's not much we can do with it yet. If you get a pop-up window ("Create patchbay definition as a snapshot of all actual client connections?"), hit "No" to make sure we'll be able to make the necessary connections later.
+After saving your changes in this setup window, try hitting the "Start" button in the small main window. If you can't get this to work, this may mean that your operating system doesn't know where Jack's files are located, or that they are in the wrong spot. To fix this,
+
+Once things are up and running, feel free to open "Patchbay," although there's not much we can do with it yet. If you get a pop-up window ("Create patchbay definition as a snapshot of all actual client connections?"), hit "No" to make sure we'll be able to make the necessary connections later.
 
 <p align="center">
   <img width="670" height="350" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/qjackctl_initialpatchbay.png?raw=true">
