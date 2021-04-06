@@ -23,14 +23,15 @@ In Q Jack Control, open up Patchbay.To add system plugs, do the following:
 1. Hit "Add" next to Output Sockets.
 2. Hit the drop-down arrow on the Client box. You should see "system" as a client option. Select this.
 3. Click "Add Plug" until all available plugs are added. You should be able to add two plugs total.
-4. Hit "OK."
-5. Repeat this process with input plugs.
+4. Hit the drop-down arrow again and select JackTrip as your client (it may not be labeled JackTrip - look for the client option that doesn't say "system" or "internal"), then repeat Step 3 with JackTrip as your client.
+5. Hit "OK."
+6. Repeat this process with input plugs.
 
 <p align="center">
   <img width="675" height="729" src="https://github.com/lucylangenb/jacktrip/blob/master/screencaps/qjackctl_patchbay.png?raw=true">
 </p>
 
-Repeat the above process with JackTrip as your client (it may not be labeled JackTrip - look for the client option that doesn't say "system" or "internal"). When you're done, if you used the command above (where n = 1 JackTrip plug), you should have three output plugs and three input plugs - for each, two are under "system," and one is under "JackTrip."
+When you're done, if you used the command above (where n = 1 JackTrip plug), you should have three output plugs and three input plugs - for each, two are under "system," and one is under "JackTrip."
 
 From this point, connecting is pretty simple. Select the two system output plugs, as well as the JackTrip input plug. Hit "Connect" to establish an audio connection between these. Repeat this process, connecting the two system input plugs with the JackTrip output plug.
 
