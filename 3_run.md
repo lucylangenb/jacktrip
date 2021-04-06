@@ -33,7 +33,7 @@ In Q Jack Control, open up Patchbay.To add system plugs, do the following:
 
 When you're done, if you used the command above (where n = 1 JackTrip plug), you should have three output plugs and three input plugs - for each, two are under "system," and one is under "JackTrip."
 
-From this point, connecting is pretty simple. Select the two system output plugs, as well as the JackTrip input plug. Hit "Connect" to establish an audio connection between these. Repeat this process, connecting the two system input plugs with the JackTrip output plug.
+From this point, connecting is pretty simple. Hit the "Connect" button to link input and output sockets.
 
 
 ## Patching in Jack with JackPilot
